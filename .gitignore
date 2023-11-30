@@ -12,6 +12,10 @@
 *.user
 *.sln.docstates
 
+*.csproj
+*.sln
+*.gitignore
+
 # Build results
 [Dd]ebug/
 [Rr]elease/
